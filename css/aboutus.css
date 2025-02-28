@@ -1,0 +1,193 @@
+/* Navbar starts */
+.img_1{
+    width:216px;
+    height:178px;
+    margin-top:132px;
+}
+.nav_ul{
+    width:100%;
+    height:100px;
+    top:0;
+    left:0;
+    right:0;
+    z-index:300;
+}
+.navbar-nav{
+    margin-left: 576px;
+    margin-top: 34px;
+    color:white;
+}
+.navbar-nav a{
+    color:black;
+}
+.navbar-nav a:active{
+    color:yellow;
+}
+.navbar-nav a:hover{
+    color:black;
+}
+/* Navbar Ends */
+/* Banner Starts */
+.head_1{
+    font-size: 150px!important;
+    font-weight: 600;
+    padding-left: 259px;
+    padding-top:-41px;
+    margin-top:-150px;
+    margin-left:-14px;
+}
+.spn_1{
+    font-size:350px!important;
+    font-weight: 700;
+    padding-left:320px;
+    padding-top: 50px;
+    margin-top:-168px;
+}
+.img_2{
+    width:928px;
+    height:464px;
+    background-color:white;
+    margin-top: 0px;
+}
+.About_us{
+    top:50px;
+    left:-1px;
+}
+/* Banner Ends */
+/* Car Section Starts */
+.img_45{
+    left:102px;
+    top:422px;
+}
+/* Car Section Ends */
+/* Car Point Section Starts */
+.head_9{
+    margin-top:266px;
+}
+.point_car{
+    margin-top:62px;
+}
+.img_32{
+    width:625px;
+    height:619px;
+}
+.head_10{
+    margin-top:-10px;
+    margin-right:374px;
+}
+.para_2{
+    font-weight:500;
+    margin-top:39px;
+    margin-right:241px;
+}
+.para_3{
+    margin-right:75px;
+}
+.ban_left{
+    margin-top: 50px;
+}
+/* Car Point Section Ends */
+/* Form Section Starts */
+.rect_3{
+    margin-top:150px;
+    padding-left:170px;
+}
+.heading_quest{
+    left:402px;
+    right:100px;
+    top:218px;
+}
+.name_1{
+    left:248px;
+    top:201px;
+    width:268px;
+}
+.name_2{
+    left:-26px;
+    top:257px;
+    width:268px;
+}
+.name_3{
+    width:268px;
+    height:94px;
+    left:242px;
+    top:283px;
+}
+.para_36{
+    margin-left:112px;
+    top:223px;
+}
+.s_8{
+    padding-left:-31px;
+    top:205px;
+    left:35px;
+}
+.img_568{
+    margin-left:-53px;
+    left:-163px;
+    top:375px;
+}
+.img_231{
+    width:691px;
+    height:138px;
+    left:-454px;
+    top:518px;
+}
+.btn_6{
+    left:-30px;
+    top:370px;
+}
+/* Form Section Ends */
+/* Footer Section Starts */
+.sec_56{
+    height:1223px;
+    width:1690px;
+    margin-top:197px;
+    left:100px;
+    margin-left:-208px;
+}
+.img_28{
+    height:308px;
+    width:308px;
+    left:250px;
+    top:100px;
+    margin-left:136px;
+    margin-top:330px;
+}
+.para_39{
+    color:white;
+    margin-top:-107px;
+    margin-left:130px;
+}
+.li_1, .li_2, .li_3, .li_4, .li_5{
+    color:white;
+    margin-left:-355px;
+    padding-top:50px;
+}
+/* .img_1{
+    height:41px;
+} */
+.ic_1, .ic_2, .ic_3, .ic_4{
+    margin-left:100px;
+    padding:5px;
+}
+.li_6, .li_7, .li_8, .li_9, .li_10{
+    color:white;
+    margin-left:-355px;
+    padding-top:50px;
+}
+.para_91{
+    color:white;
+    margin-top:-107px;
+    margin-left:-54px;
+}
+.btn_0{
+    left:50px;
+    top:50px;
+}
+.para_92{
+    margin-left:-1321px;
+    left:50px;
+    margin-top:337px;
+}
+/* Footer Section Ends */
