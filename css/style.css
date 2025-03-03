@@ -381,7 +381,243 @@
 }
 /* choose your plan ends */
 /* Client Review Starts */
-.heading-14{
+.head_1{
+    margin-top:54px;
+}
+.cRwoc{
+    margin-top:43px;
+    margin-left:-331px;
+}
+.CRlower_right_1{
+    margin-left:965px;
+    margin-top:-193px;
+}
+.para_63{
+    left:20px;
+    top:16px;
+}
+.img_245{
+    left:343px;
+    top:-24px;
+}
+.para_53{
+    margin-left:-41px;
+    margin-top:69px;
+}
+.para_69{
+    margin-top:-30px;
+}
+.testimonial-section{
+    margin-top:-3px;
+}
+:root {
+    --primary-color: #FF9900;
+    --text-color: #333;
+    --card-bg: #fff;
+    --shadow-color: rgba(0, 0, 0, 0.1);
+}
+
+.testimonial-section {
+    /* background-color: #f8f9fa; */
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+}
+
+.testimonial-slider {
+    padding: 40px 0;
+    overflow: hidden;
+}
+
+.testimonial-track {
+    display: flex;
+    transition: transform 0.5s ease;
+}
+
+.testimonial-item {
+    min-width: 100%;
+    padding: 0 15px;
+}
+
+.testimonial-content {
+    position: relative;
+    padding-top: 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.client-image {
+    position: absolute;
+    top: -52px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 200px;
+    height: 200px;
+    z-index: 2;
+}
+
+.client-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 5px;
+}
+
+.testimonial-card {
+    background: var(--card-bg);
+    border-radius: 10px;
+    padding: 120px 30px 30px;
+    margin-top: -80px;
+    text-align: center;
+    box-shadow: 0 5px 20px var(--shadow-color);
+    width: 100%;
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.CRlower_right{
+    margin-left:226px;
+}
+.CRlower_left{
+    margin-left:100px;
+    padding-left:28px;
+
+}
+.testimonial-text {
+    color: var(--text-color);
+    font-size: 1rem;
+    line-height: 1.6;
+    margin-bottom: 20px;
+}
+
+.client-name {
+    color: var(--text-color);
+    font-size: 1.25rem;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+
+.rating {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 5px;
+}
+
+.rating .fas.fa-star {
+    color: var(--primary-color);
+}
+
+.review-count {
+    color: #666;
+    font-size: 0.9rem;
+    margin-left: 10px;
+}
+
+/* Navigation Buttons */
+.nav-btn {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background: none;
+    border: none;
+    font-size: 2rem;
+    color: var(--primary-color);
+    cursor: pointer;
+    transition: color 0.3s ease;
+    z-index: 3;
+}
+
+.nav-btn:hover {
+    color: #e88c0c;
+}
+
+.nav-btn.prev {
+    left: -20px;
+}
+
+.nav-btn.next {
+    right: -20px;
+}
+
+/* Responsive Styles */
+@media (max-width: 768px) {
+    .testimonial-content {
+        padding-top: 80px;
+    }
+
+    .client-image {
+        width: 160px;
+        height: 160px;
+    }
+
+    .testimonial-card {
+        padding: 100px 20px 20px;
+    }
+
+    .nav-btn {
+        font-size: 1.5rem;
+    }
+
+    .nav-btn.prev {
+        left: -10px;
+    }
+
+    .nav-btn.next {
+        right: -10px;
+    }
+}
+
+@media (max-width: 576px) {
+    .testimonial-content {
+        padding-top: 60px;
+    }
+
+    .client-image {
+        width: 120px;
+        height: 120px;
+    }
+
+    .testimonial-card {
+        padding: 80px 15px 15px;
+    }
+
+    .testimonial-text {
+        font-size: 0.9rem;
+    }
+
+    .client-name {
+        font-size: 1.1rem;
+    }
+
+    .review-count {
+        font-size: 0.8rem;
+    }
+}
+
+@media (max-width: 326px) {
+    .client-image {
+        width: 100px;
+        height: 100px;
+    }
+
+    .testimonial-card {
+        padding: 70px 10px 10px;
+    }
+
+    .testimonial-text {
+        font-size: 0.85rem;
+    }
+
+    .client-name {
+        font-size: 1rem;
+    }
+}
+.cR_Rakesh{
+    margin-bottom:20px;
+}
+/* .heading-14{
     margin-top:56px;
 }
 .review_main{
@@ -446,7 +682,7 @@
 }
 .customer_review{
     margin-top: 50px;
-}
+} */
 /* client Review Ends */
 /* counter section starts */
 .counter-section {
@@ -468,7 +704,7 @@
 /* Counter section ends */
 /* Form section starts */
 .rect_3{
-    margin-top:62px;
+    margin-top:28px;
     padding-left:320px;
 }
 .heading_quest{
@@ -493,8 +729,16 @@
     top:209px;
 }
 .para_36{
-    margin-left:-39px;
+    margin-left:-25px;
     top:102px;
+    font-size:24px
+}
+.spn_1{
+    margin-top:50px;
+    margin-left:50px;
+}
+.img_67{
+    height:180px;
 }
 .s_8{
     padding-left:-31px;
@@ -503,7 +747,7 @@
 }
 .img_568{
     margin-left:-10px;
-    left:-253px;
+    left:-289px;
     top:296px;
 }
 .img_231{
