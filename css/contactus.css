@@ -13,20 +13,16 @@
     z-index:300;
 }
 .navbar-nav{
-    margin-left: 576px;
+    margin-left: 510px;
     margin-top: 34px;
     color:white;
 }
 .navbar-nav a{
     color:black;
 }
-.navbar-nav a:active{
-    color:yellow;
+.active{
+    color:#ffcc00!important;
 }
-.navbar-nav a:hover{
-    color:black;
-}
-
 /* Navbar Ends */
 /* Banner Starts */
 .head_1{
@@ -213,18 +209,18 @@
     top:209px;
 }
 .para_36{
-    margin-left:302px;
+    margin-left:259px;
     top:146px;
 }
 .s_8{
     padding-left:-31px;
     top:142px;
-    left:181px;
+    left:249px;
 }
 .img_568{
     margin-left:-10px;
-    left:-112px;
-    top:296px;
+    left:-80px;
+    top:272px;
 }
 .img_231{
     width:691px;

@@ -13,18 +13,15 @@
     z-index:300;
 }
 .navbar-nav{
-    margin-left: 576px;
-    margin-top: 34px;
+    margin-left: 462px;
+    margin-top: -9px;
     color:white;
 }
 .navbar-nav a{
     color:black;
 }
-.navbar-nav a:active{
-    color:yellow;
-}
-.navbar-nav a:hover{
-    color:black;
+.active{
+    color:#ffcc00!important;
 }
 /* Navbar Ends */
 /* Banner Starts */
@@ -35,13 +32,15 @@
     padding-top:-41px;
     margin-top:-150px;
     margin-left:-14px;
+    text-shadow:2px 2px #c9bfbf;;
 }
 .spn_1{
-    font-size:350px!important;
+    font-size:328px!important;
     font-weight: 700;
-    padding-left:320px;
+    padding-left:-25px;
     padding-top: 50px;
     margin-top:-168px;
+    margin-left:294px;
 }
 .img_2{
     width:928px;
@@ -62,7 +61,7 @@
 /* Car Section Ends */
 /* Car Point Section Starts */
 .head_9{
-    margin-top:266px;
+    margin-top:292px;
 }
 .point_car{
     margin-top:62px;
@@ -103,7 +102,7 @@
     width:268px;
 }
 .name_2{
-    left:-26px;
+    left:-28px;
     top:257px;
     width:268px;
 }
@@ -114,18 +113,18 @@
     top:283px;
 }
 .para_36{
-    margin-left:112px;
+    margin-left:79px;
     top:223px;
 }
 .s_8{
     padding-left:-31px;
-    top:205px;
+    top:219px;
     left:35px;
 }
 .img_568{
     margin-left:-53px;
-    left:-163px;
-    top:375px;
+    left:-85px;
+    top:356px;
 }
 .img_231{
     width:691px;
@@ -136,6 +135,9 @@
 .btn_6{
     left:-30px;
     top:370px;
+}
+.img_67{
+    height:56px;
 }
 /* Form Section Ends */
 /* Footer Section Starts */

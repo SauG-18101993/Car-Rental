@@ -20,11 +20,8 @@
 .navbar-nav a{
     color:black;
 }
-.navbar-nav a:active{
-    color:yellow;
-}
-.navbar-nav a:hover{
-    color:black;
+.active{
+    color:#ffcc00!important;
 }
 /* navbar ends */
 /* banner starts */
@@ -74,7 +71,6 @@
     --light-gray: #f8f9fa;
     --border-radius: 12px;
 }
-
 /* Slider Container Styles */
 .travel-slider {
     position: relative;
@@ -83,23 +79,19 @@
     border-radius: var(--border-radius);
     overflow: hidden;
 }
-
 .slider-container {
     overflow: hidden;
 }
-
 .slider-track {
     display: flex;
     transition: transform 0.5s ease;
     gap: 20px;
 }
-
 /* Travel Card Styles */
 .slide {
     min-width: calc(33.333% - 14px);
     flex: 0 0 auto;
 }
-
 .travel-card {
     background: white;
     border-radius: var(--border-radius);
@@ -383,6 +375,8 @@
 /* Client Review Starts */
 .head_1{
     margin-top:54px;
+    font-size:45px !important;
+    font-weight:600;
 }
 .cRwoc{
     margin-top:43px;
@@ -416,29 +410,24 @@
     --card-bg: #fff;
     --shadow-color: rgba(0, 0, 0, 0.1);
 }
-
 .testimonial-section {
     /* background-color: #f8f9fa; */
     min-height: 100vh;
     display: flex;
     align-items: center;
 }
-
 .testimonial-slider {
     padding: 40px 0;
     overflow: hidden;
 }
-
 .testimonial-track {
     display: flex;
     transition: transform 0.5s ease;
 }
-
 .testimonial-item {
     min-width: 100%;
     padding: 0 15px;
 }
-
 .testimonial-content {
     position: relative;
     padding-top: 100px;
@@ -449,7 +438,7 @@
 
 .client-image {
     position: absolute;
-    top: -52px;
+    top: -51px;
     left: 50%;
     transform: translateX(-50%);
     width: 200px;
@@ -468,7 +457,7 @@
     background: var(--card-bg);
     border-radius: 10px;
     padding: 120px 30px 30px;
-    margin-top: -80px;
+    margin-top: 48px;
     text-align: center;
     box-shadow: 0 5px 20px var(--shadow-color);
     width: 100%;
@@ -617,72 +606,7 @@
 .cR_Rakesh{
     margin-bottom:20px;
 }
-/* .heading-14{
-    margin-top:56px;
-}
-.review_main{
-    margin-top:40px;
-}
-.rec_2{
-    top:233px;
-    left:-111px;
-    right:40px;
-}
-.para_65{
-    padding-right:343px;
-    padding-top:282px;
-    left: -215px;
-    bottom:20px;
-}
-.fig-89{
-    margin-left:100px;
-    left:-900px;
-    right:200px;
-    top:175px;
-}
-.fig-90{
-    left:-623px;
-    top:150px;
-    right:100px;
-}
-.para-012{
-    left:-630px;
-    top:142px;
-}
-.left_review{
-    left:190px;
-    right:200px;
-    top:-50px;
-}
-.heading_15{
-    left:50px;
-    right:100px;
-    top:50px;
-    margin-top:56px;
-    padding-right:100px;
-    margin-left:-337px;
-    padding-top:50px;
-}
-.section_padding_9{
-    padding-left:151px;
-    padding-right:151px;
-}
-.para_01{
-    margin-right:50px;
-    margin-top:15px;
-    margin-left:10px;
-}
-.para_87{
-    margin-left: -410px;
-    margin-top: 67px;
-}
-.para_91{
-    margin-left: -363px;
-    margin-top: 15px;
-}
-.customer_review{
-    margin-top: 50px;
-} */
+
 /* client Review Ends */
 /* counter section starts */
 .counter-section {
@@ -710,7 +634,7 @@
 .heading_quest{
     left:550px;
     right:100px;
-    top:140px;
+    top:77px;
 }
 .name_1{
     left:426px;
@@ -729,32 +653,33 @@
     top:209px;
 }
 .para_36{
-    margin-left:-25px;
+    padding-left:49px;
     top:102px;
-    font-size:24px
+    font-size:24px;
 }
 .spn_1{
-    margin-top:50px;
-    margin-left:50px;
+    padding-top:5px;
+    padding-left:5px;
+    font-size:10px!important;
 }
 .img_67{
-    height:180px;
+    height:71px;
 }
 .s_8{
     padding-left:-31px;
     top:118px;
-    left:-26px;
+    left:45px;
 }
 .img_568{
     margin-left:-10px;
-    left:-289px;
-    top:296px;
+    left:-179px;
+    top:248px;
 }
 .img_231{
     width:691px;
     height:138px;
     left:-614px;
-    top:437px;
+    top:410px;
 }
 .btn_6{
     left:154px;
@@ -796,11 +721,11 @@
     height:308px;
     margin-top:319px;
     left:100px;
-    margin-left:100px;
+    margin-left:-30px;
 }
 .para_91{
     margin-top:-87px;
-    margin-left:18px;
+    margin-left:0px;
 }
 .heading-68{
     margin-top:466px;

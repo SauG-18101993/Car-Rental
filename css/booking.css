@@ -20,12 +20,6 @@
 .navbar-nav a{
     color:black;
 }
-.navbar-nav a:active{
-    color:yellow;
-}
-.navbar-nav a:hover{
-    color:black;
-}
 .nav_1{
     height:100px;
     margin-left: 100px;
@@ -45,12 +39,15 @@
     height:44px;
     margin-top:-33px;
 }
+.active{
+    color:#ffcc00!important;
+}
     /* Navbar Ends */
 /* Banner starts */
 .fn_1{
     font-size:48px;
     margin-top: -171px;
-    margin-left: -523px;
+    margin-left: -718px;
 }
 .para_1{
     font-size:48px;
@@ -290,7 +287,7 @@ body {
 }
 .name_2{
     left:156px;
-    top:173px;
+    top:187px;
     width:268px;
 }
 .name_3{
@@ -305,23 +302,27 @@ body {
 }
 .s_8{
     padding-left:-31px;
-    top:142px;
-    left:-29px;
+    top:115px;
+    left:-28px;
 }
 .img_568{
     margin-left:-10px;
-    left:-260px;
-    top:310px;
+    left:-213px;
+    top:251px;
 }
 .img_231{
     width:691px;
     height:138px;
     left:-611px;
     top:437px;
+    margin-left:50px;
 }
 .btn_6{
     left:154px;
     top:306px;
+}
+.img_67{
+    height:90px;
 }
 /* form section ends */
 /* footer section starts */
