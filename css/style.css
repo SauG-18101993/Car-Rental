@@ -3,6 +3,7 @@
     width:216px;
     height:216px;
     margin-top:80px;
+    margin-left:-42px;
 }
 .nav_ul{
     width:100%;
@@ -345,6 +346,7 @@
 .rent_img{
     width:552px;
     height:428px;
+    margin-top:58px;
 }
 /* Faster checkout ends */
 /* Popular Catagories starts */
@@ -379,7 +381,7 @@
     font-weight:600;
 }
 .cRwoc{
-    margin-top:43px;
+    margin-top:58px;
     margin-left:-331px;
 }
 .CRlower_right_1{
@@ -396,13 +398,13 @@
 }
 .para_53{
     margin-left:-41px;
-    margin-top:69px;
+    margin-top:128px;
 }
 .para_69{
     margin-top:-30px;
 }
 .testimonial-section{
-    margin-top:-3px;
+    margin-top:-73px;
 }
 :root {
     --primary-color: #FF9900;
@@ -653,26 +655,27 @@
     top:209px;
 }
 .para_36{
-    padding-left:49px;
-    top:102px;
+    padding-left:-5px;
+    top:116px;
     font-size:24px;
 }
 .spn_1{
     padding-top:5px;
     padding-left:5px;
-    font-size:10px!important;
+    font-size:21px!important;
 }
 .img_67{
     height:71px;
 }
 .s_8{
     padding-left:-31px;
-    top:118px;
-    left:45px;
+    top:117px;
+    left:1px;
+    font-size:16px;
 }
 .img_568{
     margin-left:-10px;
-    left:-179px;
+    left:-228px;
     top:248px;
 }
 .img_231{
@@ -718,7 +721,7 @@
 }
 .img_2{
     width:308px;
-    height:308px;
+    height:313px;
     margin-top:319px;
     left:100px;
     margin-left:-30px;
@@ -744,7 +747,14 @@
     margin-left:50px;
 }
 .sub_10{
-    margin-top:-178px;
+    margin-top:-206px;
     margin-left:916px;
 }
+.f_2{
+    margin-top:-19px;
+}
+.f_3{
+    margin-top:-19px;
+}
+
 /* Footer ends */

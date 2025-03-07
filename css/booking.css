@@ -297,17 +297,19 @@ body {
     top:209px;
 }
 .para_36{
-    margin-left:-26px;
-    top:98px;
+    margin-left:43px;
+    top:109px;
+    font-size:24px;
 }
 .s_8{
     padding-left:-31px;
     top:115px;
-    left:-28px;
+    left:49px;
+    font-size:18px;
 }
 .img_568{
     margin-left:-10px;
-    left:-213px;
+    left:-226px;
     top:251px;
 }
 .img_231{
@@ -383,12 +385,21 @@ body {
     margin-left:50px;
 }
 .sub_10{
-    margin-top:-178px;
+    margin-top:-210px;
     margin-left:916px;
 }
 .f_1{
     width:1691px;
-    height:1200px;
+    height:725px;
     margin-left:0px;
+}
+.s_2{
+    margin-left:17px;
+}
+.f_8{
+    margin-top:-25px;
+}
+.f_9{
+    margin-top:-25px;
 }
 /* Footer ends */

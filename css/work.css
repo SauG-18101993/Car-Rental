@@ -13,7 +13,7 @@
     z-index:300;
 }
 .navbar-nav{
-    margin-left: 550px;
+    margin-left: 474px;
     margin-top: 34px;
     color:white;
 }
@@ -56,12 +56,12 @@
         top:428px;
         left:50px;
     } */
-    .img_2{
-        width:308px;
-        height:308px;
+    .img_car{
+        width:707px;
+        height:361px;
         margin-top: 408px;
         margin-left:305px;
-        left:391px;
+        left:-82px;
         top:200px;
     }
     .img_3{
@@ -167,13 +167,13 @@
 }
 .para_53{
     margin-left:-41px;
-    margin-top:69px;
+    margin-top:108px;
 }
 .para_69{
     margin-top:-30px;
 }
 .testimonial-section{
-    margin-top:-3px;
+    margin-top:-70px;
 }
 :root {
     --primary-color: #FF9900;
@@ -411,19 +411,21 @@
     top:208px;
 }
 .para_36{
-    margin-left:35px;
-    top:102px;
+    margin-left:80px;
+    top:111px;
     padding-top:10px;
+    font-size:24px;
 }
 .s_8{
     padding-left:-31px;
-    top:97px;
-    left:43px;
+    top:104px;
+    left:87px;
+    font-size:19px;
 }
 .img_568{
-    margin-left:-10px;
-    left:-273px;
-    top:265px;
+    margin-left:-6px;
+    left:-311px;
+    top:284px;
 }
 .img_231{
     width:691px;
@@ -447,6 +449,9 @@
 .img_67{
     height:108px;
 }
+/* .car_1{
+    height:20px;
+} */
 /* Form section Ends */
 /* Footer Starts */
 .footer {
@@ -482,7 +487,7 @@
     width:308px;
     height:308px;
     margin-top:297px;
-    margin-left:-98px;
+    margin-left:-31px;
 }
 .li_1{
     margin-top:532px;
@@ -495,5 +500,8 @@
 .li_3{
     margin-top:-175px;
     margin-left:993px;
+}
+.btn_1{
+    margin-left:50px;
 }
 /* Footer Section Ends */
